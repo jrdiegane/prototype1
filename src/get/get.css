@@ -1,0 +1,14 @@
+.sd{
+    *background-color: gray;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    
+}
+.card-body{
+    background-color: gray;
+    /*color: white;
+    display: flex;
+    margin: 0 auto;
+    /*text-align: center;*/
+}
